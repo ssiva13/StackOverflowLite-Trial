@@ -1,14 +1,13 @@
 
 @import 'login.css';
-@import 'questions.css';
-@import 'card.css';
-@import 'panel.css';
+@import 'panels.css';
 @import 'table.css';
 @import 'helpers.css';
 @import 'buttons.css';
+@import 'questions.css';
+@import 'card.css';
 @import 'media.css';
 @import 'colors.css';
-@import 'animations.css';
 @import 'navbar.css';
 @import 'sidebar.css';
 
@@ -46,7 +45,7 @@ a {
 }
 .input-control {
     border: 0;
-    background-image: linear-gradient(#9c27b0, #9c27b0), linear-gradient(#D2D2D2, #D2D2D2);
+    background-image: linear-gradient(#2789b0, #2789b0), linear-gradient(#D2D2D2, #D2D2D2);
     background-size: 0 2px, 100% 1px;
     background-repeat: no-repeat;
     background-position: center bottom, center calc(100% - 1px);
